@@ -1,0 +1,12 @@
+{
+    "name": "avokald/cardpr-php",
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "authors": [
+        {
+            "name": "Aibek Baldykov",
+            "email": "baldykov_a@yahoo.com"
+        }
+    ]
+}
